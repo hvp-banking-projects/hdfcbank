@@ -1,2 +1,1 @@
-this is a python coded file.
-new added line
+this is a python coded file. 
